@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-11-22T20:00:00Z",
+  "twitchWebClientId": "kimne78kx3ncx6brgo4mv6wki5h1ko",
+  "twitchGqlHashes": {
+    "ViewerDropsDashboard": "5a4da2ab3d5b47c9f9ce864e727b2cb346af1e3ea8b897fe8f704a97ff017619",
+    "Inventory": "d86775d0ef16a63a33ad52e80eaff963b2d5b72fada7c991504a57496e1d8e4b",
+    "DropCampaignDetails": "039277bf98f3130929262cc7c6efd9c141ca3749cb6dca442fc8ead9a53f77c1",
+    "DirectoryPage_Game": "c7c9d5aad09155c4161d2382092dc44610367f3536aac39019ec2582ae5065f9",
+    "UseLive": "639d5f11bfb8bf3053b424d9ef650d04c4ebb7d94711d644afb08fe9a0fad5d9",
+    "PlaybackAccessToken": "ed230aa1e33e07eebb8928504583da78a5173989fadfb1ac94be06a04f3cdbe9",
+    "PlaybackAccessToken_Template": "0828119ded1c13477966434e15800ff57ddacf13ba1911c129dc2200705b0712",
+    "DropsPage_ClaimDropRewards": "a455deea71bdc9015b78eb49f4acfbce8baa7ccbedd28e549bb025bd0f751930",
+    "CoreActionsCurrentUser": "6b5b63a013cf66a995d61f71a508ab5c8e4473350c5d4136f846ba65e8101e95",
+    "DropsHighlightService_AvailableDrops": "782dad0f032942260171d2d80a654f88bdd0c5a9dddc392e9bc92218a0f42d20",
+    "DropCurrentSessionContext": "4d06b702d25d652afb9ef835d2a550031f1cf762b193523a92166f40ea3d142b"
+  },
+  "twitchClaimSelectors": [],
+  "maintenanceBanner": null,
+  "twitchEnabled": true,
+  "kickEnabled": true
+}
